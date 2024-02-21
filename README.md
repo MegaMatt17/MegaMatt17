@@ -2,7 +2,7 @@
 - 👀 I’m interested in multiple sports and creating thigs.
 - 🌱 I’m currently learning Decimals in math.
 - 💞️ I’m looking to collaborate on hockey player statistics 
-- 📫 How to reach me ... school email faragoma584@hwcdsb.ca
+- 📫 How to reach me ... email matthew.a.farago@hotmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ... i play AA hockey
 
