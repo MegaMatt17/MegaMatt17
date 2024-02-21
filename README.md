@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @MegaMatt17 
-- 👀 I’m interested in multiple sports and creating thigs.
+- 👋 Hi, I’m Matthew Farago (AKA MegaMatt)
+- 👀 I’m interested in multiple sports and creating things.
 - 🌱 I’m currently learning Decimals in math.
-- 💞️ I’m looking to collaborate on hockey player statistics 
-- 📫 How to reach me ... email matthew.a.farago@hotmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ... i play AA hockey
-
-<!---
-MegaMatt17/MegaMatt17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on hockey player statistics .
+- 📫 How to reach me via email at matthew.a.farago@hotmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play AA hockey
